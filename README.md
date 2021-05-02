@@ -6,8 +6,7 @@ For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now
 
 ## Installation
 
-Install Ruby:
-Tutorial: https://phoenixnap.com/kb/install-ruby-on-windows-10
+Install Ruby: https://phoenixnap.com/kb/install-ruby-on-windows-10
 
 Install bundle:
 
