@@ -22,8 +22,8 @@ $ gem install tzinfo-data
 Run local server:
 
 ```bash
-$ git clone https://github.com/piharpi/jekyll-klise.git
-$ cd personal-site
+$ git clone https://github.com/yungjas/yungjas.github.io.git
+$ cd yungjas.github.io
 $ bundle install
 $ bundle exec jekyll serve
 ```
