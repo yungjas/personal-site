@@ -23,7 +23,7 @@ Run local server:
 
 ```bash
 $ git clone https://github.com/piharpi/jekyll-klise.git
-$ cd jekyll-klise
+$ cd personal-site
 $ bundle install
 $ bundle exec jekyll serve
 ```
