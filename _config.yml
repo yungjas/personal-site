@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: jasmine # author name
   bio: >- # tell to the world
-    Undergraduate at Singapore Management University, aspiring software engineer.
+    Undergraduate at Singapore Management University, aspiring software developer.
   # username: username # general username
   # github: github_username # github username
   # twitter: twitter_username # twitter username
