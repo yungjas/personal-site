@@ -15,6 +15,6 @@
 #   url: https://github.com/piharpi/jekyll-klise
 #   external: true
 
-- title: music
-  url: /music/
+- title: experience
+  url: /experience/
   external: false
