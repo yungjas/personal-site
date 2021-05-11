@@ -13,4 +13,5 @@ categories: jekyll update
     <li>Designed PowerPoint slides about various event management tools and briefed it to the SLA</li>
     <li>Documented technical specifications and requirements</li>
     <li>Maintenance of code quality using SonarQube</li>
+    <li>Performed Unit Testing using JUnit</li>
 </ul>
