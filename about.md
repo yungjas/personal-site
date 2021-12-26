@@ -13,9 +13,9 @@ Embarking on school projects has allowed me to step out of my comfort zone and t
     <li>C#</li>
     <li>Java</li>
     <li>SQL</li>
-    <li>Frontend Web Development - HTML, CSS, JavaScript</li>
-    <li>Web Development Frameworks - Python Flask, .NET Core</li>
+    <li>Frontend Development: HTML, CSS, JavaScript, Vue</li>
+    <li>Backend Development: Flask (Python), .NET Core (C#), Spring (Java)</li>
     <li>System support using AWS Educate</li>
 </ul>
 
-Other than coding or doing assignments, I like to listen to music. I don't have a specific genre I'd stick to, as long as I like the song it's going into my playlist. Also, I may listen to different types of music depending on my mood that day. Some of my favourite artists include SHINee, Dreamcatcher, EXID and SCARLXRD.
+During my free time, I like to exercise and listen to music, as well as embarking on some personal creative projects such as photography and music production.
